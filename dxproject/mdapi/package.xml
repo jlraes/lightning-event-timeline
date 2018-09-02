@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+  <types>
+    <name>CustomApplication</name>
+    <members>Northern_Trail_Outfitters</members>
+  </types>
+  <types>
+    <name>AuraDefinitionBundle</name>
+    <members>LightningEventTimeLine</members>
+    <members>LightningEventTimeLineApp</members>
+    <members>LightningEventTimeLineGraph</members>
+    <members>LightningEventTimeLineHeader</members>
+    <members>LightningEventTimeLineItem</members>
+    <members>LightningEventTimeLineItems</members>
+    <members>LightningEventTimeLineRefreshEvt</members>
+  </types>
+  <types>
+    <name>ApexClass</name>
+    <members>EventTimeLineController</members>
+    <members>EventTimeLineControllerTest</members>
+    <members>EventTimeLineDao</members>
+    <members>EventTimeLineDaoTest</members>
+      <members>EventTimeLineHelper</members>
+    <members>EventTimeLineHelperTest</members>
+    <members>EventTimeLineTester</members>
+    <members>EventTimeLineTesterTest</members>
+        <members>EventTimeLineWeekWrapper</members>
+    <members>EventTimeLineWeekWrapperTest</members>
+  </types>
+
+
+  <types>
+    <name>StaticResource</name>
+    <members>EventTimeLineLibrary</members>
+    <members>SLDS091</members>
+  </types>
+
+  <version>43.0</version>
+</Package>
